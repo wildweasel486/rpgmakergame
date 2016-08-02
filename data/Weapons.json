@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":111,"description":"Basic, off-the-shelf concealed carry.\nRoy swears he has a permit for it.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Berducci P92F","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":2,"animationId":113,"description":"Most expensive - and least accurate - pistol\nin the game. Everyone still buys it, though.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Dessert Eagle","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":3,"animationId":114,"description":"To use, fire in the general direction of the\ncontinent your target is standing on.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":116,"name":"Artdink Warfare","note":"","params":[0,0,100,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":4,"animationId":67,"description":"You're only supposed to be able to hold\n2 of these. Where does he get them all?","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":218,"name":"Grenade","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":10}
+]

@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"Somehow capable of stopping bullets, knives,\nfires, and all conceivable forms of damage.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"SWAT Shield","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"Who's that behind those Foster Grants?\nOh, it's just Roy.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":151,"name":"Sunglasses","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"Looks expensive, unless you read the tag.\nKind of itchy for some reason.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"Arnani Suit","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":4,"atypeId":1,"description":"Absorbs exactly one bullet.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"CT Armor","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":5,"atypeId":1,"description":"As a pre-order bonus, this helmet is also\navailable as a cosmetic item in our other games.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"CT Helmet","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":6,"atypeId":1,"description":"Some players wonder if it even does anything.\nThese players only buy it to be spending money.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":223,"name":"Defuse Kit","note":"","params":[0,0,0,0,0,0,0,500],"price":0}
+]
